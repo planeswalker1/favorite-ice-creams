@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.65;
+  margin: 0;
+  font-size: 2em;
+  text-align: center;
+}
