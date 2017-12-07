@@ -8,3 +8,20 @@ body {
   font-size: 2em;
   text-align: center;
 }
+
+h1 {
+  margin-bottom: 40px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p span {
+  padding-bottom: 3px;
+  border-bottom: 2px solid lightblue;
+}
+
+img {
+  height: 200px;
+}
