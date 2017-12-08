@@ -17,6 +17,15 @@ ul {
   list-style-type: none;
 }
 
+@media screen and (max-width: 960px) {
+  ul li {
+    margin-bottom: 25px;
+  }
+  ul li:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
 p span {
   padding-bottom: 3px;
   border-bottom: 2px solid lightblue;
