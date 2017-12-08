@@ -26,6 +26,14 @@ ul {
   }
 }
 
+@media screen and (min-width: 961px) {
+  ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+
 p span {
   padding-bottom: 3px;
   border-bottom: 2px solid lightblue;
